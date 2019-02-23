@@ -63,7 +63,7 @@ const Index = () => (
     <Parallax pages={5}>
       <Hero offset={0}>
         <BigTitle>
-          Hello, <br /> I'm Mónica.
+          Hi, <br /> I'm Mónica.
         </BigTitle>
         <Subtitle>I'm creating amazing web experiences for the next generation of consumer-facing companies.</Subtitle>
       </Hero>
@@ -105,8 +105,7 @@ const Index = () => (
         <AboutHero>
           <Avatar src={avatar} alt="Mónica Leiras" />
           <AboutSub>
-            The English language can not fully capture the depth and complexity of my thoughts. So I'm incorporating
-            Emoji into my speech to better express myself. Winky face.
+            Entrepreneur, passionate about animals, music, and nature <br /> I'm all about creativity and getting things done.
           </AboutSub>
         </AboutHero>
         <AboutDesc>
@@ -121,15 +120,11 @@ const Index = () => (
         <Inner>
           <Title>Get in touch</Title>
           <ContactText>
-            Say <a href="mailto:plizNoSp4m@domain.tld">Hi</a> or find me on other platforms:{' '}
-            <a href="https://dribbble.com/LekoArts">Dribbble</a> &{' '}
-            <a href="https://www.instagram.com/lekoarts.de/">Instagram</a>
+            Say <a href="mailto:monicarafaelaleiras@gmail.com">Hi</a> or find me on <a href="https://www.linkedin.com/in/monicaleiras/">LinkedIn</a>
           </ContactText>
         </Inner>
         <Footer>
-          &copy; 2019 by Gatsby Starter Portfolio Cara.{' '}
-          <a href="https://github.com/LekoArts/gatsby-starter-portfolio-cara">Github Repository</a>. Made by{' '}
-          <a href="https://www.lekoarts.de">LekoArts</a>.
+          &copy; 2019 by Mónica Leiras.
         </Footer>
       </Contact>
     </Parallax>
