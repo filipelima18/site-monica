@@ -66,8 +66,7 @@ const Index = () => (
           Hi, <br /> I'm Mónica.
         </BigTitle>
         <Subtitle>I'm creating amazing web experiences for the next generation of consumer-facing companies.</Subtitle>
-        <a class="button" href="https://www.google.pt/">Curriculum</a>
-        <form action="http://google.com"><input type="submit" value="Go to Google" /></form>
+        <a class="button" href="/static/monica-leiras-cv-2018-12.pdf">Curriculum</a>
       </Hero>
       <Projects offset={1}>
         <Title>Experience</Title>
