@@ -66,7 +66,8 @@ const Index = () => (
           Hi, <br /> I'm Mónica.
         </BigTitle>
         <Subtitle>I'm creating amazing web experiences for the next generation of consumer-facing companies.</Subtitle>
-        <a class="button" href="/static/monica-leiras-cv-2018-12.pdf">Curriculum</a>
+        <div class="separator"></div>
+        <a class="button" href="/monica-leiras-cv-2018-12.pdf" target="_blank">Curriculum</a>
       </Hero>
       <Projects offset={1}>
         <Title>Experience</Title>

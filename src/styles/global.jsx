@@ -25,9 +25,12 @@ const GlobalStyle = createGlobalStyle`
     text-decoration: none;
   }
   a.button {
+    font-family: "Open Sans","-apple-system","BlinkMacSystemFont","Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue","sans-serif";
+    font-size: 22px;
+    font-weight: 700;
     flex: 1 1 auto;
     margin-top: 40px;
-    padding: 25px 50px;
+    padding: 20px 50px;
     text-align: center;
     text-transform: uppercase;
     transition: 0.5s;
@@ -39,6 +42,9 @@ const GlobalStyle = createGlobalStyle`
   a.button:hover {
     background-position: right center;
     cursor: pointer;
+  }
+  .separator {
+    height: 20px;
   }
 `
 
