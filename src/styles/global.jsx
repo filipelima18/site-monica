@@ -24,6 +24,12 @@ const GlobalStyle = createGlobalStyle`
     color: #e07628;
     text-decoration: none;
   }
+  a.button {
+    color: #ffffff !important;
+  }
+  .button {
+    color: #ffffff !important;
+  }
 `
 
 export default GlobalStyle
