@@ -65,7 +65,7 @@ const Index = () => (
         <BigTitle>
           Hi, <br /> I'm Mónica.
         </BigTitle>
-        <Subtitle>I'm creating amazing web experiences for the next generation of consumer-facing companies.</Subtitle>
+        <Subtitle>I create, analyze, and optimize digital marketing initiatives focusing on growth.</Subtitle>
         <div class="separator"></div>
         <a class="button" href="/CV-Mónica-Leiras-2019-set.pdf" target="_blank">Curriculum</a>
       </Hero>
@@ -96,7 +96,7 @@ const Index = () => (
           <ProjectCard
             title="MITIC"
             link="https://www.mitic.pt/"
-            bg="#257371"
+            bg="#3B414F"
           >
             I took upon myself to learn WordPress, HTML and CSS, and co-started this freelance collective. We had several Marketing and Web Dev projects for clients in Advertising, E-Commerce, and others.
           </ProjectCard>
@@ -111,18 +111,9 @@ const Index = () => (
           </AboutSub>
         </AboutHero>
         <AboutDesc>
-          I’m a resourceful and creative digital marketing
-professional specializing in brand marketing,
-digital advertising, and growth marketing.
-With a Master’s Degree in Innovation and
-Technological Entrepreneurship, I began my
-career by co-founding a startup and later
-worked as a marketing manager in a creative
-agency, more recently managing a B2C brand.
-My entrepreneurial and professional path has
-built up my tenacity, resilience, and growth
-mindset, and I thrive in developing, executing,
-and optimizing marketing initiatives.
+          I’m a resourceful and creative digital marketing professional specializing in brand marketing, digital advertising, and growth marketing. With a Master’s Degree in Innovation and Technological Entrepreneurship, I began my career by co-founding a startup and later worked as a marketing manager in a creative agency, more recently managing a B2C brand.
+          <br><br>
+          My entrepreneurial and professional path has built up my tenacity, resilience, and growth mindset, and I thrive in developing, executing, and optimizing marketing initiatives.
         </AboutDesc>
       </About>
       <Contact offset={4}>
