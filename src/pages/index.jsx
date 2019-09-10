@@ -67,7 +67,7 @@ const Index = () => (
         </BigTitle>
         <Subtitle>I'm creating amazing web experiences for the next generation of consumer-facing companies.</Subtitle>
         <div class="separator"></div>
-        <a class="button" href="/monica-leiras-cv-2018-12.pdf" target="_blank">Curriculum</a>
+        <a class="button" href="/CV-Mónica-Leiras-2019-set.pdf" target="_blank">Curriculum</a>
       </Hero>
       <Projects offset={1}>
         <Title>Experience</Title>
@@ -75,30 +75,30 @@ const Index = () => (
           <ProjectCard
             title="Framie"
             link="http://www.framieapp.com/"
-            bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
+            bg="#c0392b"
           >
-            I co-founded this startup in 2015 - an app full of exciting and challenging collections of various themes and categories. I worked mainly in content management, user experience and digital marketing.
+            I co-founded this startup in 2015 and had a key role in its bootstrapping phase, including customer discovery, go-to-market strategy, product launch, and growth marketing.
           </ProjectCard>
           <ProjectCard
             title="Creative Zone"
             link="http://creativezone.pt/en/"
-            bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
+            bg="#a1bf3f"
           >
-            In this creative Marketing agency, I was responsible for managing the websites and social media of clients in the Healthcare and Home Textile sectors. This includes design and content creation both for online and print formats.
+            In this creative Marketing agency, I am responsible for managing  the digital marketing channels of several clients in the Healthcare and Textile sectors, as well as an E-Commerce brand.
           </ProjectCard>
           <ProjectCard
             title="Pinkit"
             link="https://www.pinkit.pt/"
-            bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
+            bg="#9E005D"
           >
-            Along with one friend and colleague, we took our skills to create a side project called Pinkit. This helped me to gain experience and expertise in marketing campaigns, business development, e-commerce and even logistics.
+            Along with one colleague, I leveraged my skills to create an E-Commerce store for women's accessories. This was a great challenge in terms of marketing strategy, business development,and logistics.
           </ProjectCard>
           <ProjectCard
             title="MITIC"
             link="https://www.mitic.pt/"
-            bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
+            bg="#257371"
           >
-            Some pro-bono works were the key to try new things, growing the interest for web development and design and improving my skills. Then, the works were no longer pro-bono...
+            I took upon myself to learn WordPress, HTML and CSS, and co-started this freelance collective. We had several Marketing and Web Dev projects for clients in Advertising, E-Commerce, and others.
           </ProjectCard>
         </ProjectsWrapper>
       </Projects>
@@ -111,11 +111,18 @@ const Index = () => (
           </AboutSub>
         </AboutHero>
         <AboutDesc>
-          You know the way you feel when you see a picture of two otters holding hands? That's how you're gonna feel
-          every day. My mother cried the day I was born because she knew she’d never be prettier than me. You should
-          make me your campaign manager. I was born for politics. I have great hair and I love lying. Captain? The kids
-          want to know where Paulie the Pigeon is. I told them he got sucked up into an airplane engine, is that all
-          right?
+          I’m a resourceful and creative digital marketing
+professional specializing in brand marketing,
+digital advertising, and growth marketing.
+With a Master’s Degree in Innovation and
+Technological Entrepreneurship, I began my
+career by co-founding a startup and later
+worked as a marketing manager in a creative
+agency, more recently managing a B2C brand.
+My entrepreneurial and professional path has
+built up my tenacity, resilience, and growth
+mindset, and I thrive in developing, executing,
+and optimizing marketing initiatives.
         </AboutDesc>
       </About>
       <Contact offset={4}>
