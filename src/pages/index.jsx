@@ -112,7 +112,8 @@ const Index = () => (
         </AboutHero>
         <AboutDesc>
           I’m a resourceful and creative digital marketing professional specializing in brand marketing, digital advertising, and growth marketing. With a Master’s Degree in Innovation and Technological Entrepreneurship, I began my career by co-founding a startup and later worked as a marketing manager in a creative agency, more recently managing a B2C brand.
-          <br><br>
+          <br />
+          <br />
           My entrepreneurial and professional path has built up my tenacity, resilience, and growth mindset, and I thrive in developing, executing, and optimizing marketing initiatives.
         </AboutDesc>
       </About>
