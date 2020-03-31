@@ -67,7 +67,7 @@ const Index = () => (
         </BigTitle>
         <Subtitle>I create, analyze, and optimize digital marketing initiatives focusing on growth.</Subtitle>
         <div class="separator"></div>
-        <a class="button" href="/CV-Mónica-Leiras-2019-set.pdf" target="_blank">Curriculum</a>
+        <a class="button" href="/CV-Monica-Leiras-Digital-Marketer.pdf" target="_blank">Curriculum</a>
       </Hero>
       <Projects offset={1}>
         <Title>Experience</Title>
@@ -125,7 +125,7 @@ const Index = () => (
           </ContactText>
         </Inner>
         <Footer>
-          &copy; 2019 by Mónica Leiras.
+          &copy; 2020 by Mónica Leiras.
         </Footer>
       </Contact>
     </Parallax>
